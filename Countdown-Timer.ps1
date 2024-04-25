@@ -1,4 +1,4 @@
-﻿# Stream start countdown timer - by Lum
+﻿# Stream start countdown timer v1.1 - by Lum 
 # https://twitch.tv/LumKitty https://github.com/LumKitty
 
 # Usage
@@ -39,7 +39,8 @@ If ($PSCmdlet.ParameterSetName -eq 'Time') {
 }
 
 # Kill any other running instance of this script
-Get-CimInstance Win32_Process -Filter "name = 'powershell.exe'" | where {($_.ProcessID -ne $PID) -and ($_.CommandLine -like "*$($MyInvocation.MyCommand.Path)*")} | Stop-Process
+Get-CimInstance Win32_Process -Filter "name = 'powershell.exe'" | where {($_.ProcessID -ne $PID) -and ($_.CommandLine -like "*$($MyInvocation.MyCommand.Path)*")} | ForEach { Stop-Process -id $_.ProcessId }
+
 
 Write-Host "Counting down until $TrgTime"
 
