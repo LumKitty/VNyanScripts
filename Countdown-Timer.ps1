@@ -3,7 +3,7 @@
 
 # Usage
 
-# Edit line 32 of this script to point to an appropriate location on your system, then add a text source in OBS that uses this file
+# Edit line 52 of this script to point to an appropriate location on your system, then add a text source in OBS that uses this file
 
 # Stream is starting at 7:30 PM
 # .\Countdown-Timer.ps1 -TrgTime 19:30
@@ -13,7 +13,6 @@
 
 # Stream is starting at half past the current hour (e.g. run this at 6:10 and it will start at 6:30 giving a 20min countdown)
 # .\Countdown-Timer.ps1 -Minutes 30 -Past
-
 
 # Streamdeck config using BarRaider's Advanced Launcher
 # Application   : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
