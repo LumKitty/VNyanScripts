@@ -5,7 +5,7 @@ tl;dr - I'm committed to your privacy by virtue of being too lazy to actually co
 ### No tracking or telemetry, ever
 All my software is free, open source and designed to run locally on your PC. It does not connect to any sort of tracking or telemetry services, all logging is done locally to your PC and you are in charge of what happens to that!  
 If your PC is owned by a third party (e.g. an employer) then the local logs are subject to the privacy policy of the PC's owner, but also why the fuck are you running VTuber software on a work PC in the first place?  
-If your PC is pwn3d by a third party, good luck with that!
+If your PC is pwn3d by a third party, good luck with that!  
 If the software description says it connects to a third party service what you do with that connection is subject to the privacy policy of that service and is none of my business  
 
 For example:
