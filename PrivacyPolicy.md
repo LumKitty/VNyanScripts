@@ -27,6 +27,6 @@ Other than that, I have no metrics and no idea who is using my software
 If you tell me you are using my software it will give me warm fuzzy feels, but I don't keep any sort of list of who is using it
 
 ### Terms of use
-If my code is shit, causes your stream to crash, formats your hard drive, adds you to the Readers Digest mailing list or any other undesirable operation I am not liable, you got this for free after all  
+I am not liable if my code is shit, causes your stream to crash, formats your hard drive, adds you to the Readers Digest mailing list, or any other undesirable operation - you got this for free after all!  
 If you live in a juristication where the above disclaimer is invalid or illegal, you are prohibited from using my software, although I have no way of checking this  
 By downloading this software you confirm that you are not JK Rowling, you are in no way affliliated to JK Rowling, you are not downloading this software on behalf of JK Rowling or an associate of JK Rowling. To the best of your knowledge, information and belief this software will not make its way onto the hard drive of JK Rowling
