@@ -1,0 +1,25 @@
+Apparently I have to write a Privacy Policy for offline software these days, so here we go...
+
+tl;dr - I'm committed to your privacy by virtue of being too lazy to actually collect any information, also please don't send me any PII, if you do anyway, that's on you
+
+### No tracking or telemetry, ever
+All my software is free, open source and designed to run locally on your PC. It does not connect to any sort of tracking or telemetry services, all logging is done locally to your PC and you are in charge of what happens to that!  
+If the software description says it connects to a third party service what you do with that connection is subject to the privacy policy of that service and is none of my business  
+
+For example:
+- The MixItUp plugin only connects to another app running on your PC, as per the plugin's description. I do not receive any information about this, but also I am not responsible for anything MixItUp does beyond that point
+- The Joystick.tv plugin connects to the Joystick website as advertised in the plugin description. Again I do not receive any information about this and am not responsible for what JSTV do
+
+### Log files
+Any log files or screenshots you send me are subject to the privacy policy of whatever platform you use to send them to me (e.g. Discord or Github)  
+You are responsible for scrubbing the log files of anything you don't wish for others to see. Please remove any personally identifing information from logs  
+If a log file or screenshot is sent as an attachment that I have to download before I can view it, then it will likely sit on my phone or my PC until I remember to delete it, so don't do that  
+
+For example:  
+- If your Windows username is your real name and the log files contain references to C:\Users\JoeBloggs you should edit that out  
+- If passwords or auth keys are included in log files, you should definitely edit those out! I do attempt to filter these when logging, but you should still check, especially if you're running test versions!  
+
+### Metrics
+GitHub tracks cumulative number of downloads and I occasionally peak at that out of curiosity  
+Other than that, I have no metrics and no idea who is using my software  
+If you tell me you are using my software it will give me warm fuzzy feels, but I don't keep any sort of list of who is using it
