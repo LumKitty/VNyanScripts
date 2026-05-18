@@ -1,6 +1,6 @@
 Apparently I have to write a Privacy Policy for offline software these days, so here we go...
 
-tl;dr - I'm committed to your privacy by virtue of being too lazy to actually collect any information, also please don't send me any PII, if you do anyway, that's on you
+tl;dr - I'm committed to your privacy by virtue of being too lazy to actually collect any information, also please don't send me any PII, it's entirely on you if you do that!  
 
 ### No tracking or telemetry, ever
 All my software is free, open source and designed to run locally on your PC. It does not connect to any sort of tracking or telemetry services, all logging is done locally to your PC and you are in charge of what happens to that!  
