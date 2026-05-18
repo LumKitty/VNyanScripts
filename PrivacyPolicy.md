@@ -12,8 +12,8 @@ For example:
 
 ### Log files
 Any log files or screenshots you send me are subject to the privacy policy of whatever platform you use to send them to me (e.g. Discord or Github)  
-You are responsible for scrubbing the log files of anything you don't wish for others to see. Please remove any personally identifing information from logs  
 If a log file or screenshot is sent as an attachment that I have to download before I can view it, then it will likely sit on my phone or my PC until I remember to delete it, so don't do that  
+You are responsible for scrubbing the log files of anything you don't wish for others to see. Please remove any personally identifing information from logs  
 
 For example:  
 - If your Windows username is your real name and the log files contain references to C:\Users\JoeBloggs you should edit that out  
