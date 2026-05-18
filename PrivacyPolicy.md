@@ -25,3 +25,5 @@ For example:
 GitHub tracks cumulative number of downloads and I occasionally peak at that out of curiosity  
 Other than that, I have no metrics and no idea who is using my software  
 If you tell me you are using my software it will give me warm fuzzy feels, but I don't keep any sort of list of who is using it
+
+By downloading this software you confirm that you are not JK Rowling, you are in no way affliliated to JK Rowling, you are not downloading this software on behalf of JK Rowling or an associate of JK Rowling. To the best of your knowledge, information and belief this software will not make its way onto the hard drive of JK Rowling
