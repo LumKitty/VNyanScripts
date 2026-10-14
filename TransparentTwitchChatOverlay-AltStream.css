@@ -1,0 +1,17 @@
+/* For use with https://github.com/baffler/Transparent-Twitch-Chat-Overlay */
+/* Create a new widget and use your AltStream OBS overlay URL, e.g.
+   https://altstream.online/chat-overlay.html?channel=YOUR_USERNAME&theme=orange&fade=120 */
+
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.message, .text, .author {
+    font-size: 18px !important;
+    word-wrap: break-word;
+    background-color: #00000000;
+    text-shadow: 2px 2px 0 #000, 2px 2px 4px #000;
+}
+.message {
+    padding: 0 !important;
+    border: 0 !important;
+    margin: 0 !important;
+}
