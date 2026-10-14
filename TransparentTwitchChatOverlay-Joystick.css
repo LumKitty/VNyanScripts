@@ -1,0 +1,32 @@
+/* Use Transparent Twitch Chat Overlay with joystick.tv
+   https://github.com/baffler/Transparent-Twitch-Chat-Overlay
+   Create a new widget, set the URL to your custom OBS-chat-overlay URL from the Joystick site
+   Add the below CSS */
+
+body { background-color: rgba(0, 0, 0, 0); }
+
+*, *::before, *::after { 
+  line-height: 8px !important;
+}
+
+@keyframes mTO { 0%, 99.17% { opacity:1; } 100% { opacity:0; } }
+.chat-message { 
+    animation: mTO 60s forwards !important; 
+    color: #cbedf2 !important;
+    text-indent: -3px !important;
+    display: block !important;
+}
+.content, .username, .chat-message, span.mr-1.cursor-pointer.font-semibold, span.mr-1.font-semibold {
+    font-size: 18px !important;
+    font-weight: bold;
+    text-shadow: 2px 2px 0 #000, 2px 2px 4px #000;
+    letter-spacing: 1px;
+    display: inline;
+}
+.iconify {
+    object-fit: scale-down !important;
+    position: relative !important;
+    left: -2px !important;
+    max-height: 16px !important;
+    width: 32px;
+}
